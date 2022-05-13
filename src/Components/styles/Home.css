@@ -1,0 +1,42 @@
+.AboutMe{
+    width: 70%;     
+    padding: 0.625rem;
+    margin-left: 0.5rem;
+    background:linear-gradient(45deg,rgba(101, 11, 228, 0.77),rgba(244, 67, 2, 0.562));
+}
+.basicInfo{
+    width: 28%;
+    border: 5px solid lightgray;
+    padding: 0.625rem;
+    background:linear-gradient(45deg,rgba(101, 11, 228, 0.77),rgba(244, 67, 2, 0.562));
+    margin-right: 0.5rem;
+}
+.AboutTotalContent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-weight: bolder;
+    color: #fff;
+    border-bottom: 1px solid green;
+    box-shadow: 2px 2px 15px green;
+    padding: 6px;
+    margin-block: 7px;
+    width: 100%;
+    margin-top: 0.625rem;
+}
+.AboutTotalContent:hover{
+    transform: scale(98%);
+    transition: 250ms;
+    color: black;
+}
+.AboutColor{
+    background:linear-gradient(45deg,rgba(101, 11, 228, 0.77),rgba(244, 67, 2, 0.562));
+   
+}
+.Home{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 100%;
+    
+}

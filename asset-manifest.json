@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-with-react/static/css/main.9c8e331c.css",
+    "main.js": "/portfolio-with-react/static/js/main.9aa6482e.js",
+    "static/js/787.26f70c15.chunk.js": "/portfolio-with-react/static/js/787.26f70c15.chunk.js",
+    "static/media/TenorApiChallenge.png": "/portfolio-with-react/static/media/TenorApiChallenge.d1e6ecea70fe864ff499.png",
+    "static/media/AccessingGitHubAccount.png": "/portfolio-with-react/static/media/AccessingGitHubAccount.b34abc9bd5b18922396f.png",
+    "static/media/react.jpg": "/portfolio-with-react/static/media/react.c74f3e399a631d7cc61e.jpg",
+    "static/media/ui.jpg": "/portfolio-with-react/static/media/ui.91218f07b48f25c06303.jpg",
+    "static/media/faceBookChallenge.png": "/portfolio-with-react/static/media/faceBookChallenge.e9093d273021083fba8a.png",
+    "static/media/payPalSssHtml.png": "/portfolio-with-react/static/media/payPalSssHtml.f8bc4c661ac258c533bd.png",
+    "static/media/ToDoTaskWithReact.png": "/portfolio-with-react/static/media/ToDoTaskWithReact.d34686d885f078371cd4.png",
+    "static/media/MyCvUpdated.odt": "/portfolio-with-react/static/media/MyCvUpdated.5fc01554dd022cd7a135.odt",
+    "static/media/countDownTimer.png": "/portfolio-with-react/static/media/countDownTimer.4283ac6d6a6d6d71ca1e.png",
+    "static/media/man.png": "/portfolio-with-react/static/media/man.1d5689da3de3030edb6d.png",
+    "index.html": "/portfolio-with-react/index.html",
+    "main.9c8e331c.css.map": "/portfolio-with-react/static/css/main.9c8e331c.css.map",
+    "main.9aa6482e.js.map": "/portfolio-with-react/static/js/main.9aa6482e.js.map",
+    "787.26f70c15.chunk.js.map": "/portfolio-with-react/static/js/787.26f70c15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c8e331c.css",
+    "static/js/main.9aa6482e.js"
+  ]
+}

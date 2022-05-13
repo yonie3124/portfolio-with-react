@@ -21,7 +21,7 @@ export default function Home() {
 
               Currently, I am taking a short training in IT (JavaScript, and python) in order to develop my digital level.
             </p>
-            I love meeting new people and learning new things, send me an email if you want to know more about me.
+            I am always open and love to meet new people new challenge and learning new things, send me an email if you want to know more about me.
             Learn More
         </div>
         <div className='basicInfo'>
